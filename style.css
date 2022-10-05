@@ -1,0 +1,24 @@
+
+h1{
+    text-align: center;
+}
+
+.b1{
+    background-color: aqua;
+}
+.b2{
+    background-color: brown;
+}
+.b3{
+    background-color: cadetblue;
+}
+.b4{
+    background-color: darkgoldenrod;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    margin-left: 25%;
+}
